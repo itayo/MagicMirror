@@ -1,6 +1,7 @@
 {
   "name": "magicmirror-vendors",
   "description": "Package for vendors use by MagicMirror Core.",
+  "version": "1.0.0"
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MichMich/MagicMirror.git"
